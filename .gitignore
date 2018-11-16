@@ -1,6 +1,9 @@
 # Python cache
 __pycache__/
 
+# Jupyter notebook cache
+.ipynb_checkpoints/
+
 # Jetbrains IDE
 .idea/
 
